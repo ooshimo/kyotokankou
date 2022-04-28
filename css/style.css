@@ -40,7 +40,7 @@ a {
 }
 
 ul {
-	padding-left: oem;
+	padding-inline-start: opx;
 }
 
 .navbar a:hover {
