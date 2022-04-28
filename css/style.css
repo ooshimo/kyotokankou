@@ -39,6 +39,10 @@ a {
 	color: #709a00;
 }
 
+ul .navber {
+	padding-left: oem;
+}
+
 .navbar a:hover {
 	background-color: #3D460C;
 }
