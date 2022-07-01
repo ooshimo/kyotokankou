@@ -39,10 +39,6 @@ a {
 	color: #709a00;
 }
 
-ul {
-	padding-inline-start: 0px;
-}
-
 .navbar a:hover {
 	background-color: #3D460C;
 }
@@ -265,13 +261,23 @@ h2 {
 	margin-top: 0.5em;
 }
 
+.image-left {
+	transition: .3s ease-in-out ;
+}
+
+.image-right {
+	transition: .3s ease-in-out ;
+}
+
 .text-left {
 	padding-left: 20px;
 	padding-right: 20px;
+	transition: .3s ease-in-out ;
 }
 .text-right {
 	padding-left: 20px;
 	padding-right: 20px;
+	transition: .3s ease-in-out ;
 }
 
 .text-right h5 {
